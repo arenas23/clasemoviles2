@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Clase17febrerologgin</string>
+    <string name="welcome">WELCOME BACK</string>
+    <string name="username">user name</string>
+    <string name="password">password</string>
+    <string name="forgotPassword">forgot password</string>
+    <string name="btnLogin">Log in</string>
+
+</resources>
